@@ -13,6 +13,12 @@ This repository contains a heart disease prediction project using various machin
 3)Logistic Regression (LR)
 4)k-Nearest Neighbors (KNN)
 5)Random Forest(RF)
+# Output
+![image](https://github.com/user-attachments/assets/286c1cbd-85bd-4f81-9648-634006f6d294)![image](https://github.com/user-attachments/assets/f3b31739-cda9-49dd-ba93-28bc03bd3b55)![image](https://github.com/user-attachments/assets/ab83e29e-cdce-4897-a850-6fd655749057)![image](https://github.com/user-attachments/assets/d5700f2b-4add-47a2-b362-625b28d7eeeb)
+
+
+
+
 
 # Best Performing Model
 **1)Gradient Boosting Machine (GBM)**
