@@ -15,15 +15,19 @@ This repository contains a heart disease prediction project using various machin
 **1)Gradient Boosting Machine (GBM)**<br>
 Training Accuracy: 1.0<br>
 Testing Accuracy: 0.86<br>
+Overall Accuracy: 0.87<br>
 **2)Support Vector Machine (SVM)**<br>
 Training Accuracy: 0.82<br>
 Testing Accuracy: 0.78<br>
+Overall Accuracy: 0.83<br>
 **3)Logistic Regression (LR)**<br>
 Training Accuracy: 0.80<br>
 Testing Accuracy: 0.75<br>
+Overall Accuracy: 0.86<br>
 **4)k-Nearest Neighbors (KNN)**<br>
 Training Accuracy: 0.83<br>
 Testing Accuracy: 0.79<br>
+Overall Accuracy: 0.87<br>
 **5)Random Forest**<br>
 Training Accuracy: 0.87<br>
 Testing Accuracy: 0.83<br>
