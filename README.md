@@ -19,7 +19,7 @@ Overall Accuracy: 0.87<br>
 **2)Support Vector Machine (SVM)**<br>
 Training Accuracy: 0.82<br>
 Testing Accuracy: 0.78<br>
-Overall Accuracy: 0.83<br>
+Overall Accuracy: 0.84<br>
 **3)Logistic Regression (LR)**<br>
 Training Accuracy: 0.80<br>
 Testing Accuracy: 0.75<br>
