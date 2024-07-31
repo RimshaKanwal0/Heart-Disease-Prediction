@@ -28,7 +28,7 @@ Overall Accuracy: 0.86<br>
 Training Accuracy: 0.83<br>
 Testing Accuracy: 0.79<br>
 Overall Accuracy: 0.87<br>
-**5)Random Forest**<br>
+**5)Random Forest (RF)**<br>
 Training Accuracy: 0.87<br>
 Testing Accuracy: 0.83<br>
 Overall Accuracy: 0.83<br>
