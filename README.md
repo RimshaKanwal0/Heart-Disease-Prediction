@@ -14,7 +14,8 @@ This repository contains a heart disease prediction project using various machin
 4)k-Nearest Neighbors (KNN)
 5)Random Forest(RF)
 # Output
-![image](https://github.com/user-attachments/assets/286c1cbd-85bd-4f81-9648-634006f6d294)![image](https://github.com/user-attachments/assets/f3b31739-cda9-49dd-ba93-28bc03bd3b55)![image](https://github.com/user-attachments/assets/ab83e29e-cdce-4897-a850-6fd655749057)![image](https://github.com/user-attachments/assets/d5700f2b-4add-47a2-b362-625b28d7eeeb)
+![image](https://github.com/user-attachments/assets/286c1cbd-85bd-4f81-9648-634006f6d294)![image](https://github.com/user-attachments/assets/f3b31739-cda9-49dd-ba93-28bc03bd3b55)![image](https://github.com/user-attachments/assets/ab83e29e-cdce-4897-a850-6fd655749057)![image](https://github.com/user-attachments/assets/d5700f2b-4add-47a2-b362-625b28d7eeeb)![Untitled](https://github.com/user-attachments/assets/e0979693-393e-48e5-bbeb-8858fbf5b47d)
+
 
 
 
