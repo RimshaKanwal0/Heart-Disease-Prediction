@@ -8,8 +8,8 @@ This repository contains a heart disease prediction project using various machin
 -models/: Saved models and their respective performance metrics.
 -README.md: This file.
 # Algorithms Used
-1)Gradient Boosting Machine (GBM)
-2)Support Vector Machine (SVM)
+1)Gradient Boosting Machine (GBM)\\
+2)Support Vector Machine (SVM)\\
 3)Logistic Regression (LR)
 4)k-Nearest Neighbors (KNN)
 5)Random Forest(RF)
